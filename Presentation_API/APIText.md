@@ -18,5 +18,14 @@ Doch wenn man sich daran hält vereinfacht es das zusammenarbeiten enorm.
 Außerdem wieso sollte man es nicht verwenden jeder JavaScript code ist gültiger Typescript Code.
 Somit ist das umsteigen auf Typescript auch keine riesen Hürde.
 
+Unsere Errors werden mithilfe von Sentry geloggt.
+Sentry ist eine moderne error logging und Aggregations platform.
+Das Sentry Package ist eigentlich nur ein WebServer mit einem WebInterface.
+Für Node.js und viele andere Sprachen gibt es auch eine sehr gute SDK mit der man die Errors sehr leicht loggen kann.
+
+WEBINTERFACE HERZEIGEN.
+
+VLLT über JWT reden
+
 # Chitter Website
 Unsere Website wird mithilfe des JavaScript Frameworks Angular geschrieben.
