@@ -27,5 +27,3 @@ WEBINTERFACE HERZEIGEN.
 
 VLLT über JWT reden
 
-# Chitter Website
-Unsere Website wird mithilfe des JavaScript Frameworks Angular geschrieben.
