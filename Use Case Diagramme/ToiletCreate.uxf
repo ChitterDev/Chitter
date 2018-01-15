@@ -32,7 +32,7 @@ halign=left</panel_attributes>
       <w>60</w>
       <h>110</h>
     </coordinates>
-    <panel_attributes>System</panel_attributes>
+    <panel_attributes>API</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -54,7 +54,7 @@ halign=left</panel_attributes>
       <w>150</w>
       <h>230</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;210.0;130.0;10.0</additional_attributes>
   </element>
   <element>
@@ -136,7 +136,7 @@ ausfüllen</panel_attributes>
       <w>390</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;10.0;370.0;10.0</additional_attributes>
   </element>
   <element>
@@ -170,7 +170,7 @@ ausfüllen</panel_attributes>
       <w>120</w>
       <h>60</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>100.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -231,17 +231,6 @@ Fehlermeldung</panel_attributes>
     <panel_attributes>lt=.&gt;
 &lt;&lt;includes&gt;&gt;</panel_attributes>
     <additional_attributes>80.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>760</x>
-      <y>140</y>
-      <w>130</w>
-      <h>240</h>
-    </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
-    <additional_attributes>110.0;220.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -310,7 +299,7 @@ und anzeigen auf der Karte</panel_attributes>
       <w>380</w>
       <h>90</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>360.0;10.0;320.0;10.0;320.0;70.0;10.0;70.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -333,7 +322,7 @@ und anzeigen auf der Karte</panel_attributes>
       <w>30</w>
       <h>60</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;40.0</additional_attributes>
   </element>
 </diagram>

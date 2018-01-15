@@ -44,7 +44,7 @@ halign=left</panel_attributes>
       <h>280</h>
     </coordinates>
     <panel_attributes>
-lt=-&gt;&gt;</panel_attributes>
+lt=-</panel_attributes>
     <additional_attributes>10.0;260.0;190.0;10.0</additional_attributes>
   </element>
   <element>
@@ -158,7 +158,7 @@ lt=-&gt;&gt;</panel_attributes>
       <w>110</w>
       <h>90</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;
+    <panel_attributes>lt=-
 </panel_attributes>
     <additional_attributes>10.0;70.0;90.0;10.0</additional_attributes>
   </element>
@@ -171,7 +171,7 @@ lt=-&gt;&gt;</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>Eingabe
-lt=-&gt;&gt;</panel_attributes>
+lt=-</panel_attributes>
     <additional_attributes>10.0;20.0;300.0;20.0</additional_attributes>
   </element>
   <element>
@@ -229,7 +229,7 @@ bg=white</panel_attributes>
       <w>60</w>
       <h>110</h>
     </coordinates>
-    <panel_attributes>System</panel_attributes>
+    <panel_attributes>API</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -240,7 +240,7 @@ bg=white</panel_attributes>
       <w>100</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>80.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -336,17 +336,6 @@ bg=white</panel_attributes>
 Register Page
 bg=blue</panel_attributes>
     <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>800</x>
-      <y>330</y>
-      <w>110</w>
-      <h>130</h>
-    </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
-    <additional_attributes>90.0;10.0;10.0;110.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>

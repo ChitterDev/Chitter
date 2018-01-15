@@ -32,7 +32,7 @@ halign=left</panel_attributes>
       <w>60</w>
       <h>110</h>
     </coordinates>
-    <panel_attributes>System</panel_attributes>
+    <panel_attributes>API</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -43,7 +43,7 @@ halign=left</panel_attributes>
       <w>160</w>
       <h>210</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;190.0;140.0;10.0</additional_attributes>
   </element>
   <element>
@@ -204,7 +204,7 @@ bg=blue</panel_attributes>
       <w>130</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>110.0;10.0;10.0;80.0</additional_attributes>
   </element>
   <element>
@@ -215,7 +215,7 @@ bg=blue</panel_attributes>
       <w>120</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;
+    <panel_attributes>lt=-
 Eingabe</panel_attributes>
     <additional_attributes>10.0;20.0;100.0;20.0</additional_attributes>
   </element>
@@ -227,7 +227,7 @@ Eingabe</panel_attributes>
       <w>60</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;80.0;10.0;10.0;40.0;10.0</additional_attributes>
   </element>
   <element>
@@ -297,7 +297,7 @@ Eingabe</panel_attributes>
       <w>60</w>
       <h>90</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;70.0;40.0;70.0</additional_attributes>
   </element>
   <element>

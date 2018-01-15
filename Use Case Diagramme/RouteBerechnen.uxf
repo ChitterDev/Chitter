@@ -21,7 +21,7 @@ halign=left</panel_attributes>
       <w>60</w>
       <h>110</h>
     </coordinates>
-    <panel_attributes>Actor</panel_attributes>
+    <panel_attributes>API</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -32,7 +32,7 @@ halign=left</panel_attributes>
       <w>60</w>
       <h>110</h>
     </coordinates>
-    <panel_attributes>Actor</panel_attributes>
+    <panel_attributes>User</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -54,7 +54,7 @@ halign=left</panel_attributes>
       <w>120</w>
       <h>210</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;190.0;100.0;10.0</additional_attributes>
   </element>
   <element>
@@ -65,7 +65,7 @@ halign=left</panel_attributes>
       <w>280</w>
       <h>60</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>260.0;10.0;10.0;40.0</additional_attributes>
   </element>
   <element>
@@ -94,24 +94,13 @@ halign=left</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>610</x>
-      <y>140</y>
-      <w>280</w>
-      <h>220</h>
-    </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
-    <additional_attributes>260.0;200.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
       <x>550</x>
       <y>160</y>
       <w>90</w>
       <h>120</h>
     </coordinates>
     <panel_attributes>lt=.&gt;
-&lt;&lt;extends&gt;&gt;</panel_attributes>
+&lt;&lt;includes&gt;&gt;</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;100.0</additional_attributes>
   </element>
   <element>
@@ -133,7 +122,7 @@ halign=left</panel_attributes>
       <w>370</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;80.0;350.0;10.0</additional_attributes>
   </element>
   <element>
@@ -156,14 +145,14 @@ halign=left</panel_attributes>
       <h>100</h>
     </coordinates>
     <panel_attributes>lt=.&gt;
-&lt;&lt;extends&gt;&gt;</panel_attributes>
+&lt;&lt;includes&gt;&gt;</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>680</x>
-      <y>380</y>
+      <x>620</x>
+      <y>480</y>
       <w>150</w>
       <h>70</h>
     </coordinates>
@@ -172,6 +161,29 @@ Stanort des Users
 zur Toilette berechnen
 und anzeigen
 halign=left</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>550</x>
+      <y>400</y>
+      <w>90</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>500</x>
+      <y>470</y>
+      <w>120</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Route anzeigen</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>

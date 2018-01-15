@@ -32,7 +32,7 @@ halign=left</panel_attributes>
       <w>60</w>
       <h>110</h>
     </coordinates>
-    <panel_attributes>System</panel_attributes>
+    <panel_attributes>API</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -66,7 +66,7 @@ halign=left</panel_attributes>
       <w>170</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;10.0;150.0;10.0</additional_attributes>
   </element>
   <element>
@@ -146,7 +146,7 @@ halign=left</panel_attributes>
       <w>410</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;80.0;390.0;80.0;390.0;10.0</additional_attributes>
   </element>
   <element>
@@ -157,7 +157,7 @@ halign=left</panel_attributes>
       <w>210</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;80.0;190.0;80.0;190.0;10.0</additional_attributes>
   </element>
   <element>
@@ -231,7 +231,7 @@ User updaten</panel_attributes>
       <w>320</w>
       <h>120</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>300.0;10.0;10.0;100.0</additional_attributes>
   </element>
   <element>

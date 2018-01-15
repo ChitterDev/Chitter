@@ -21,7 +21,11 @@ halign=left</panel_attributes>
       <w>60</w>
       <h>110</h>
     </coordinates>
+<<<<<<< HEAD
+    <panel_attributes>API</panel_attributes>
+=======
     <panel_attributes>System</panel_attributes>
+>>>>>>> 64d7ca8b8995af1a28875f8df82205c444206319
     <additional_attributes/>
   </element>
   <element>
@@ -54,7 +58,11 @@ halign=left</panel_attributes>
       <w>170</w>
       <h>190</h>
     </coordinates>
+<<<<<<< HEAD
+    <panel_attributes>lt=-</panel_attributes>
+=======
     <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+>>>>>>> 64d7ca8b8995af1a28875f8df82205c444206319
     <additional_attributes>10.0;170.0;150.0;10.0</additional_attributes>
   </element>
   <element>
@@ -136,7 +144,11 @@ Errungenschaftsliste</panel_attributes>
       <w>260</w>
       <h>50</h>
     </coordinates>
+<<<<<<< HEAD
+    <panel_attributes>lt=-</panel_attributes>
+=======
     <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+>>>>>>> 64d7ca8b8995af1a28875f8df82205c444206319
     <additional_attributes>240.0;10.0;10.0;30.0</additional_attributes>
   </element>
   <element>
@@ -147,7 +159,11 @@ Errungenschaftsliste</panel_attributes>
       <w>430</w>
       <h>100</h>
     </coordinates>
+<<<<<<< HEAD
+    <panel_attributes>lt=-</panel_attributes>
+=======
     <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+>>>>>>> 64d7ca8b8995af1a28875f8df82205c444206319
     <additional_attributes>10.0;80.0;410.0;10.0</additional_attributes>
   </element>
   <element>
@@ -160,6 +176,11 @@ Errungenschaftsliste</panel_attributes>
     </coordinates>
     <panel_attributes>z.B.:
 100x Bewerten
+<<<<<<< HEAD
+---------------------
+genauer im Kapitel ????
+=======
+>>>>>>> 64d7ca8b8995af1a28875f8df82205c444206319
 bg=blue</panel_attributes>
     <additional_attributes/>
   </element>
